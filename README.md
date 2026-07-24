@@ -136,6 +136,12 @@ Mobile-Sales-Dashboard-PowerBI
 
 Aspiring Data Analyst
 
+📧 Email: anupsharma7540@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/anup-sharma-312b6029b
+
+💻 GitHub: https://github.com/AnupSharma7540
+
 ---
 
 ⭐ If you found this project useful, don't forget to give it a star!
