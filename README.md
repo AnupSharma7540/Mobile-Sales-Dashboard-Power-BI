@@ -17,19 +17,19 @@ The objective of this project is to transform raw mobile sales data into meaning
 
 ## 🏠 Executive Dashboard
 
-![Executive Dashboard](Dashboard Images/Dashboard.png)
+<img width="1247" height="592" alt="image" src="https://github.com/user-attachments/assets/5d6bb1ea-769e-422a-88ae-003663b4eb7c" />
 
 ---
 
 ## 📅 Month-To-Date (MTD) Analysis
 
-![MTD Analysis](Dashboard Images/MTD.png)
+<img width="1242" height="731" alt="image" src="https://github.com/user-attachments/assets/1e0097b9-d829-446d-86bc-1196d906fc0d" />
 
 ---
 
 ## 📈 Same Period Last Year (SPLY) Analysis
 
-![SPLY Analysis](Dashboard Images/SamePeriodLastYear.png)
+<img width="1240" height="727" alt="image" src="https://github.com/user-attachments/assets/4dc11e9f-a4d1-418d-bb92-bf2a0d60af8b" />
 
 ---
 
